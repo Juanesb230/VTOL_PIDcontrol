@@ -46,7 +46,7 @@ The next animation you can see how the VTOL is positioned at a specific angle.
 </p>
 
 <p align="center">
-  <img src="Images/GUI.gif">
+  <img src="Images/VTOL.gif">
 </p>
 
 ## 5. Contact with me
