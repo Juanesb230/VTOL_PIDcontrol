@@ -36,7 +36,7 @@ And The interface is ubicated in the Program folder can see in the following fig
 </p>
 
 <p align="justify">
-The GUI and Control system was designed in LABView, and the Arduino is used as data add-on card. The control positions the system at a specific angle, the sensor that measure this angle is the potenciometer and the signal control (PWM) moves the motor.
+The GUI and Control system was designed in LABView, and the Arduino is used as data add-on card. The control positions the system at a specific angle, the sensor that measure this angle is the potenciometer and the signal control (PWM) moves the motor with driver L298.
 </p>
 
 ## 4. Results
