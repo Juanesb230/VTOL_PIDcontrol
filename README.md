@@ -42,13 +42,12 @@ The GUI and Control system was designed in LABView, and the Arduino is used as d
 ## 4. Results
 
 <p align="justify">
-The next video you can see how the VTOL is positioned at a specific angle.
+The next animation you can see how the VTOL is positioned at a specific angle.
 </p>
 
-<video width="100%" controls>
-  <source src="Images/VTOL.mp4">
-Your browser does not support the video tag.
-</video>
+<p align="center">
+  <img src="Images/GUI.gif">
+</p>
 
 ## 5. Contact with me
 
